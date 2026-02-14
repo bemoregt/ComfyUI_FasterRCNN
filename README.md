@@ -2,6 +2,8 @@
 
 A custom node pack for [ComfyUI](https://github.com/comfyanonymous/ComfyUI) that provides object detection using Faster R-CNN models from torchvision. Supports pretrained COCO models as well as custom-trained `.pth` checkpoints.
 
+![이미지 스펙트럼 예시](https://github.com/bemoregt/ComfyUI_FasterRCNN/blob/main/ScrShot%204.png)
+
 ---
 
 ## Nodes
